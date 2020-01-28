@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Lasanha",
+    "nome": "Lasanha",
+    "preco": 23,
+    "info": "Prato que vc deve se ajoelhar e rezar antes de consumir, para que esteja a altura de quem lhe proporcionou",
+    "select": false,
+    "img": "https://abrilmdemulher.files.wordpress.com/2016/10/receita-lasanha-pratica-bacalhau.jpg?quality=90&strip=info&w=620&h=372&crop=1"
+  },
+  {
+    "id": "Capeleti",
+    "nome": "Capeleti",
+    "preco": 22,
+    "select": false,
+    "info": "Prato que vc deve se ajoelhar e rezar antes de consumir, para que esteja a altura de quem lhe proporcionou",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_HzRnfJhlOJJs1OGG1XcuRM4bBsFbg04xuHdIWI685xSwMcAdFA&s"
+  },
+  {
+    "id": "Talharin",
+    "nome": "Talharin",
+    "preco": 19,
+    "select": false,
+    "info": "Prato que vc deve se ajoelhar e rezar antes de consumir, para que esteja a altura de quem lhe proporcionou",
+    "img": "https://abrilmdemulher.files.wordpress.com/2016/10/receita-talharim-com-mariscos.jpg?quality=90&strip=info&w=620&h=372&crop=1produtos/tablet/tablet.jpg"
+  },
+  {
+    "id": "Ravioli",
+    "nome": "Ravioli",
+    "preco": 17,
+    "info": "Prato que vc deve se ajoelhar e rezar antes de consumir, para que esteja a altura de quem lhe proporcionou",
+    "select": false,
+    "img": "https://receitinhas.s3-sa-east-1.amazonaws.com/wp-content/uploads/2016/12/raviole_ao_molho_de_tomate-848x477.jpg"
+  },
+  {
+    "id": "Risoto",
+    "nome": "Risoto",
+    "preco": 30,
+    "info": "Prato que vc deve se ajoelhar e rezar antes de consumir, para que esteja a altura de quem lhe proporcionou",
+    "select": false,
+    "img": "https://abrilmdemulher.files.wordpress.com/2016/09/receita-risoto-caprese-rapido.jpg?quality=90&strip=info&w=620&h=372&crop=1"
+  }
+]
